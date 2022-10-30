@@ -238,4 +238,4 @@
 
     **Atenção**: o câmbio utilizado na edição deve ser o mesmo do cálculo feito na adição do gasto.
     
-    <img src="https://github.com/gustavogss/trybewallet-project/blob/main/carteira.gif" />
+  
