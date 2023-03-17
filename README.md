@@ -2,6 +2,6 @@
 
 ## Deploy: 
 
-[Clique Aqui](https://money.gustavosouza.dev.br/carteira)
+[Clique Aqui](https://money.gustavosouza.dev.br)
     
   
